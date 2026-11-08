@@ -1,0 +1,10 @@
+{
+  "title": "Neon_Party_with_YazykoZayka",
+  "robots": {
+    "index": false
+  },
+  "accessibility": {
+    "addBypassLinks": false,
+    "ignoreReducedMotion": false
+  }
+}
